@@ -575,9 +575,9 @@
 				<key>MinKernel</key>
 				<string></string>
 				<key>ExecutablePath</key>
-				<string>Contents/MacOS/BrcmPatchRAM2</string>
+				<string>Contents/MacOS/BrcmPatchRAM3</string>
 				<key>BundlePath</key>
-				<string>BrcmPatchRAM2.kext</string>
+				<string>BrcmPatchRAM3.kext</string>
 			</dict>
 			<dict>
 				<key>Comment</key>
