@@ -811,7 +811,7 @@
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
 				<key>prev-lang:kbd</key>
-				<data>emgtSGFuczoyNTI=</data>
+				<string>zh-Hans:252</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -857,7 +857,7 @@
 			</array>
 		</dict>
 		<key>WriteFlash</key>
-		<false/>
+		<true/>
 	</dict>
 	<key>PlatformInfo</key>
 	<dict>
